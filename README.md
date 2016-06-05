@@ -1,4 +1,3 @@
-# ex03
 
 Robots Simulation
 
