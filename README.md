@@ -27,5 +27,5 @@ Broadcasts, duration of movement (assume a constant speed) and during the operat
 * The basic operation of each robot is: listen, think about where I want to move forward, to transmit relevant information to the rest of the robots: robot knows only the location and direction relative Lenk, its start! (No GPS)
 * As a simplifying think about Scene of "Robots as a square of size 1 * 1 km, some of it white - it has a" light "for loading, and can move in it, some of which no gray light, but allows traffic inside, and some black -mcsol You can not enter it.
 
-##The initial state:
+##Arena Description :
 ![Hello](https://github.com/chenmaman/ex03/blob/master/arena.png)
