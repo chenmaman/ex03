@@ -11,8 +11,8 @@ In this exercise we will understand the problem space by entities diagram and th
 
 ###General definition of project :
 * There is a group of "robots" is defined arena.
-* Each robot has a unique identification number (index) and the ability at any time to listen to the environment or
-Broadcast message, ie either when a transmitter robot receives information from the environment is not.
+* Each robot has a unique identification number (index) and the ability at any time to listen to the arena or
+Broadcast message, ie either when a transmitter robot receives information from the arena is not.
 * Communication model (channel): a robot can pick up only one message at any point of time. The more
 A broadcast message from a greater distance so that the probability that it will be absorbed lower
 (just broadcast a message over 500 meters - the probability of its absorption is 0, which aired from a unit less than 50 meters from its absorption probability is 1).
