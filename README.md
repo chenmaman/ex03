@@ -21,7 +21,7 @@ M1 broadcast message from R1 has reduced the amount of the strengths of the othe
 Other nearby (500 meters) broadcast at the same time.
 * Robots have the ability to distribute traffic "will" or the ability to move randomly.
 * Each robot has a battery: When the battery consumption depends linearly in any of the following: Amount
-Broadcasts, duration of movement) assume a constant speed (and during the operation of the robot.
+Broadcasts, duration of movement (assume a constant speed) and during the operation of the robot.
 
 
 
