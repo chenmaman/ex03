@@ -23,6 +23,8 @@ Other nearby (500 meters) broadcast at the same time.
 * Robots have the ability to distribute traffic "will" or the ability to move randomly.
 * Each robot has a battery: When the battery consumption depends linearly in any of the following: Amount
 Broadcasts, duration of movement (assume a constant speed) and during the operation of the robot.
-
+* Each robot has a solar panel: allowing it to load itself when it's sunny surroundings - so the battery is fully charged in 4 hours of sunlight.
+* The basic operation of each robot is: listen, think about where I want to move forward, to transmit relevant information to the rest of the robots: robot knows only the location and direction relative Lenk, its start! (No GPS)
+* As a simplifying think about Scene of "Robots as a square of size 1 * 1 km, some of it white - it has a" light "for loading, and can move in it, some of which no gray light, but allows traffic inside, and some black -mcsol You can not enter it.
 
 
