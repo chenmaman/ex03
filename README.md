@@ -14,7 +14,8 @@ In this exercise we will understand the problem space by entities diagram and th
 * Each robot has a unique identification number (index) and the ability at any time to listen to the environment or
 Broadcast message, ie either when a transmitter robot receives information from the environment is not.
 * Communication model (channel): a robot can pick up only one message at any point of time. The more
-A broadcast message from a greater distance so that the probability that it will be absorbed lower (just broadcast a message over 500 meters - the probability of its absorption is 0, which aired from a unit less than 50 meters from its absorption probability is 1).
+A broadcast message from a greater distance so that the probability that it will be absorbed lower
+(just broadcast a message over 500 meters - the probability of its absorption is 0, which aired from a unit less than 50 meters from its absorption probability is 1).
 When the signal strength of a unit at a distance r (less than 500) is the following formula 2 ^ (R-500)
 Several overlapping messages) broadcast at the same time (interfere with each other in the following way: the power of
 M1 broadcast message from R1 has reduced the amount of the strengths of the other messages
