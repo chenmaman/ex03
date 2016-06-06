@@ -9,5 +9,5 @@ In this exercise we will understand the problem space by entities diagram and th
 
 * running the project in pycharm with Anconda library
 
-##General definition of project :
-*There is a group of "robots" is defined environment.
+###General definition of project :
+* There is a group of "robots" is defined environment.
