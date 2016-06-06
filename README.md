@@ -11,6 +11,7 @@ In this exercise we will understand the problem space by entities diagram and th
 
 ###General definition of project :
 * There is a group of "robots" is defined environment.
+
 * Each robot has a unique identification number (index) and the ability at any time to listen to the environment or
 Broadcast message, ie either when a transmitter robot receives information from the environment is not.
 * Communication model (channel): a robot can pick up only one message at any point of time. The more
